@@ -1,0 +1,7 @@
+id,equipamento,setor,status,data_aquisicao
+1,Notebook Dell,TI,Ativo,2023-01-15
+2,Monitor LG,Financeiro,Ativo,2022-06-10
+3,Impressora HP,Administrativo,Manutencao,2021-03-22
+4,Notebook Dell,,Ativo,2023-05-01
+5,Teclado Logitech,TI,Inativo,2020-11-30
+6,Monitor LG,Financeiro,Ativo,2022-06-10
